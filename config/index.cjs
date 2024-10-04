@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '53453de181b9aff5c9b0d5cecf1e4a6f',
 
   PROVINCE: '河南省',
-  CITY: 辉县市',
+  CITY: '新乡市',
 
   USERS: [
     {
